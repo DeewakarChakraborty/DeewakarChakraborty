@@ -6,7 +6,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 💬 Ask me about anything related to CNNs/Generative Modelling/Statistical Techniques
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I :heart: Guitar
-<br>
+<br/>
 ### Connect with me:
 
 [<img align="left" alt="https://deewakarchakraborty.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -15,12 +15,12 @@ This is the place where I opensource stuff and break things :rofl:
 [<img align="left" alt="https://www.linkedin.com/in/deewakar-chakraborty-211154184/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br>
+<br/>
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [GANs in Industry](https://deewakarchakraborty.github.io/gans_in_industry/)
 <!-- BLOG-POST-LIST:END -->
-<br>
+<br/>
 ![Deewakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=deewakarchakraborty&show_icons=true&theme=tokyonight)
 
