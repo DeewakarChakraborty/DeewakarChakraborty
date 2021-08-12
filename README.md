@@ -14,5 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br />
+📊 **This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=deewakarchakraborty&hide_title=false&hide_border=false&langs_count=3)
+
+
 ![Deewakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=deewakarchakraborty&show_icons=true&theme=tokyonight)
 
