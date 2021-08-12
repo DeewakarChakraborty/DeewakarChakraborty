@@ -1,23 +1,11 @@
-### Hi there 👋
+### Hi there <a href="https://deewakarchakraborty.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+This is the place where I opensource stuff and break things :rofl:
 
-<!--
-**DeewakarChakraborty/DeewakarChakraborty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<br />
-📊 **This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=deewakarchakraborty&hide_title=false&hide_border=false&langs_count=3)
+- 🔭 I’m currently working on RNNs
+- 🌱 I’m currently learning xarray library, Flask framework.
+- 💬 Ask me about anything related to CNNs/Generative Modelling/Statistical Techniques
+- 📫 How to reach me: [DeewakarChakraborty](https://www.linkedin.com/in/deewakar-chakraborty-211154184/)
+- ⚡ Fun fact: I :heart: Guitar
 
 
 ![Deewakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=deewakarchakraborty&show_icons=true&theme=tokyonight)
