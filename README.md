@@ -5,17 +5,21 @@ This is the place where I opensource stuff and break things :rofl:
 - 🌱 I’m currently learning xarray library, Flask framework.
 - 💬 Ask me about anything related to CNNs/Generative Modelling/Statistical Techniques
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I :heart: Guitar
+- ⚡ Fun fact: I :heart: Guitar <br><br>
 ### Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] <br>
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] <br><br>
 
 [website]: https://deewakarchakraborty.github.io/
 [linkedin]: https://www.linkedin.com/in/deewakar-chakraborty-211154184/
 [instagram]: https://www.instagram.com/deewakar_chakraborty/
+### 📕 Latest Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
+- [GANs in Industry](https://deewakarchakraborty.github.io/gans_in_industry/)
+<!-- BLOG-POST-LIST:END --><br><br>
 
 ![Deewakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=deewakarchakraborty&show_icons=true&theme=tokyonight)
 
