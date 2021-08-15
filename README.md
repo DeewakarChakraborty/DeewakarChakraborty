@@ -19,6 +19,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 <!-- BLOG-POST-LIST:START -->
 - [GANs in Industry](https://deewakarchakraborty.github.io/gans_in_industry/)
+- [GANArt: Using AI to create Portraits](https://deewakarchakraborty.github.io/using-ai-to-create-portraits/)
 <!-- BLOG-POST-LIST:END --><br><br>
 
 ![Deewakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=deewakarchakraborty&show_icons=true&theme=tokyonight)
