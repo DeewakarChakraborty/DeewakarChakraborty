@@ -10,7 +10,10 @@ This is the place where I opensource stuff and break things :rofl:
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] <br><br>
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
+<a href="https://www.codechef.com/users/deewakar_69" target="blank"><img align="center" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" alt="pronoym99" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dc6shibun" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="lukex9442" height="30" width="40" /></a>
+</p><br><br>
 
 [website]: https://deewakarchakraborty.github.io/
 [linkedin]: https://www.linkedin.com/in/deewakar-chakraborty-211154184/
