@@ -13,7 +13,7 @@ This is the place where I opensource stuff and break things :rofl:
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
 <a href="https://www.codechef.com/users/deewakar_69" target="blank"><img align="center" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" alt="pronoym99" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dc6shibun" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="lukex9442" height="30" width="40" /></a>
-</p><br>
+</p>
 
 [website]: https://deewakarchakraborty.github.io/
 [linkedin]: https://www.linkedin.com/in/deewakar-chakraborty-211154184/
@@ -33,8 +33,8 @@ This is the place where I opensource stuff and break things :rofl:
 - [GANArt: Using AI to create Portraits](https://deewakarchakraborty.github.io/using-ai-to-create-portraits/)
 <!-- BLOG-POST-LIST:END --><br><br>
 
-![Deewakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=deewakarchakraborty&show_icons=true&theme=tokyonight)<br>
+![Deewakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=deewakarchakraborty&show_icons=true&theme=tokyonight)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deewakarchakraborty&layout=compact&theme=onedark" alt="deewakarchakraborty" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deewakarchakraborty&layout=compact&theme=onedark" alt="deewakarchakraborty" /></p><br><br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deewakarchakraborty&theme=onedark&margin-w=15&margin-h=15" alt="deewakarchakraborty" /></a> </p>
