@@ -24,4 +24,6 @@ This is the place where I opensource stuff and break things :rofl:
 
 ![Deewakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=deewakarchakraborty&show_icons=true&theme=tokyonight)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deewakarchakraborty99&layout=compact&theme=onedark" alt="deewakarchakraborty" /></p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deewakarchakraborty&theme=onedark&margin-w=15&margin-h=15" alt="deewakarchakraborty" /></a> </p>
