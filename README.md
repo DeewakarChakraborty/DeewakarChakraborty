@@ -29,8 +29,9 @@ This is the place where I opensource stuff and break things :rofl:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [GANs in Industry](https://deewakarchakraborty.github.io/gans_in_industry/)
+- [Image Compression using PCA](https://www.section.io/engineering-education/image-compression-using-pca/)
 - [GANArt: Using AI to create Portraits](https://deewakarchakraborty.github.io/using-ai-to-create-portraits/)
+- [GANs in Industry](https://deewakarchakraborty.github.io/gans_in_industry/)
 <!-- BLOG-POST-LIST:END --><br><br>
 
 ![Deewakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=deewakarchakraborty&show_icons=true&theme=tokyonight)
