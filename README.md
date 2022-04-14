@@ -1,11 +1,9 @@
 ### Hi there <a href="https://deewakarchakraborty.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 This is the place where I opensource stuff and break things :rofl:
 
-- 🔭 I’m currently working on Recommendation Engines
-- 🌱 I’m currently learning Django framework.
-- 💬 Ask me about anything related to CNNs/Generative Modelling/Statistical Techniques
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I :heart: Guitar <br><br>
+- 🔭 I’m currently working on ML-Based Lightning Forecast System
+- 🌱 I’m currently learning Decentralized machine learning.
+- 🥅 2022 Goals: Contribute more to Open Source projects
 ### Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
