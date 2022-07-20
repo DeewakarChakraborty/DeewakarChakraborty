@@ -1,9 +1,9 @@
 ### Hi there <a href="https://deewakarchakraborty.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-This is the place where I opensource stuff and break things :rofl:
 
-- 🔭 I’m currently working on ML-Based Lightning Forecast System
-- 🌱 I’m currently learning Decentralized machine learning.
-- 🥅 2022 Goals: Contribute more to Open Source projects
+
+- 🔭 I’m currently working on generalized recommendation engine.
+- 🌱 I’m currently learning to work on mixed reality framework(MRTK).
+- 🥅 2022 Goals: Advance in the journey towards full stack ML Engineer.
 ### Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
